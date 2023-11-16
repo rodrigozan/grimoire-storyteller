@@ -1,0 +1,7 @@
+{
+  "name": "grimoire-storyteller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rodrigo Zan <rodzandonadi@gmail.com>",
+  "license": "MIT"
+}
